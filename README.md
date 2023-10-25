@@ -3,7 +3,7 @@
 <!-- insert banner image -->
 <img src="./img/banner.jpg" />
 
-I'm a student/learner based in Mumbai, India. Welcome to my GitHub profile!
+I'm a student/learner/developer based in Mumbai, India. Welcome to my GitHub profile!
 
 - 🌱 I'm currently exploring React
 - 💬 Ask me about Node.js
