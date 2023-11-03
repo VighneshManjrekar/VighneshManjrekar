@@ -54,6 +54,7 @@ I'm a student/learner/developer based in Mumbai, India. Welcome to my GitHub pro
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Kafka-010101?style=for-the-badge&logo=apachekafka&logoColor=white" />
 
 ## Get in Touch
 
