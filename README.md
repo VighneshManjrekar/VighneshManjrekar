@@ -5,13 +5,13 @@
 
 I'm a student/learner/developer based in Mumbai, India. Welcome to my GitHub profile!
 
-- 🌱 I'm currently exploring React
+- 🌱 I'm currently exploring Golang
 - 💬 Ask me about Node.js
 - 📫 How to reach me: [mail](vighneshmanjrekar4193@gmail.com)
 
 ## Languages and Tools I've worked with
 
-> Jack of all trades, master of none, though oftentimes better than master of one.
+> Jack of all trades, master of none, though often times better than master of one.
 
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
