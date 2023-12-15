@@ -5,7 +5,7 @@
 
 I'm a student/learner/developer based in Mumbai, India. Welcome to my GitHub profile!
 
-- 🌱 I'm currently exploring Golang
+- 🌱 I'm currently exploring Microservices
 - 💬 Ask me about Node.js
 - 📫 How to reach me: [mail](vighneshmanjrekar4193@gmail.com)
 
